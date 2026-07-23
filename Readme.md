@@ -12,7 +12,7 @@ A simple and interactive web application that fetches fascinating random facts f
 
 ## 🚀 Live Demo
 
-🔗 https://your-live-demo-link.com
+🔗 https://genearte-random-fact-app.vercel.app/
 
 ---
 
